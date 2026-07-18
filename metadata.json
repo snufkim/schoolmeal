@@ -1,0 +1,6 @@
+{
+  "name": "나이스 급식 AI 한줄평",
+  "description": "나이스 Open API와 구글 Gemini API를 활용하여 선택한 학교와 날짜의 급식 메뉴를 조회하고, 유쾌하고 기발한 AI 급식 한줄평을 생성합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
